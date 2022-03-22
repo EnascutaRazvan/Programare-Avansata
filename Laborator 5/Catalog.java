@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Catalog implements commands {
+public class Catalog implements Commands {
     ArrayList<Item> allItems;
     String name;
 
