@@ -1,0 +1,20 @@
+{
+  "allItems" : [ {
+    "type" : "book",
+    "id" : "1",
+    "title" : "Taboos_and_Issues",
+    "location" : "C:\\Users\\Razvan-PC\\Desktop\\Faculta\\Anul 2\\Sem2\\PA\\Lab5\\Homework\\src\\main\\resources\\Taboos_and_Issues.pdf",
+    "author" : "Thomson Heinle",
+    "year" : 1965,
+    "file" : "C:\\Users\\Razvan-PC\\Desktop\\Faculta\\Anul 2\\Sem2\\PA\\Lab5\\Homework\\src\\main\\resources\\Taboos_and_Issues.pdf"
+  }, {
+    "type" : "book",
+    "id" : "2",
+    "title" : "Taboos_and_Issues",
+    "location" : "C:\\Users\\Razvan-PC\\Desktop\\Faculta\\Anul 2\\Sem2\\PA\\Lab5\\Homework\\src\\main\\resources\\Taboos_and_Issues.pdf",
+    "author" : "Thomson Heinle",
+    "year" : 1965,
+    "file" : "C:\\Users\\Razvan-PC\\Desktop\\Faculta\\Anul 2\\Sem2\\PA\\Lab5\\Homework\\src\\main\\resources\\Taboos_and_Issues.pdf"
+  } ],
+  "name" : "MyCatalog"
+}
