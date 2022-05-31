@@ -38,6 +38,11 @@ public class DrawingPanel extends JPanel {
             int y1 = padY + row * cellHeight;
             int x2 = padX + boardWidth;
             offscreen.drawLine(x1, y1, x2, y1);
+            y1= padY;
+            int y2=padY + boardHeight;
+            x1 = padX + row * cellWidth;
+            x2 = x1;
+            offscreen.drawLine(x1, y1, x2, y2);
         }
         //vertical lines TODO
         //intersections

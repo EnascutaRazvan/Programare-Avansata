@@ -16,9 +16,9 @@ public class MainFrame extends JFrame {
 
     private void init() {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        canvas = new DrawingPanel(this);
         controlPanel = new ControlPanel(this);
         configPanel = new ConfigPanel(this);
+        canvas = new DrawingPanel(this);
 
         add(canvas, BorderLayout.CENTER);
         add(controlPanel,BorderLayout.SOUTH);

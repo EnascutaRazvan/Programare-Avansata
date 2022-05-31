@@ -31,8 +31,7 @@ public class ConfigPanel extends JPanel {
         frame.remove(frame.canvas);
         frame.createGame();
     }
-    public int getRows() {return (int) spinners[0].getValue();
-    }
+    public int getRows() {return (int) spinners[0].getValue();}
     public int getCols() {
         return (int) spinners[1].getValue();
     }
